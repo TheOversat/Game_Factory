@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC154BQ,118
+D Encoders, Decoders, Multiplexers & Demultiplexers Decoder/Demultiplexe Single 4-to-16 24Pin
+K
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT154.pdf
+$ENDCMP
+#
+#End Doc Library

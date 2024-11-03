@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CY62158ELL-45ZSXI
+D SRAM 8Mb 45ns 1M x 8 Low Power SRAM
+K
+F https://componentsearchengine.com/Datasheets/2/CY62158ELL-45ZSXI.pdf
+$ENDCMP
+#
+#End Doc Library
