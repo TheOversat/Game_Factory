@@ -1,0 +1,14 @@
+# Backup files
+*.bak
+*.tmp
+*.kicad_pcb-bak
+*.sch-bak
+
+# Netlist and layout files
+*.net
+*.dsn
+*.drc
+
+# Other temporary or cache files
+*.swp
+.cache/
